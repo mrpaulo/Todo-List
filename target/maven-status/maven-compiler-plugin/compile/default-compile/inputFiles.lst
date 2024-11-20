@@ -1,0 +1,8 @@
+/mnt/arquivos-linux/projects_git/Todo-List/src/main/java/com/todolist/service/TaskService.java
+/mnt/arquivos-linux/projects_git/Todo-List/src/main/java/com/todolist/controller/TaskController.java
+/mnt/arquivos-linux/projects_git/Todo-List/src/main/java/com/todolist/repository/TaskRepository.java
+/mnt/arquivos-linux/projects_git/Todo-List/src/main/java/com/todolist/configuration/DatabaseConnection.java
+/mnt/arquivos-linux/projects_git/Todo-List/src/main/java/com/todolist/configuration/TestDatabaseConnection.java
+/mnt/arquivos-linux/projects_git/Todo-List/src/main/java/com/todolist/model/Task.java
+/mnt/arquivos-linux/projects_git/Todo-List/src/main/java/com/todolist/TodoListAPI.java
+/mnt/arquivos-linux/projects_git/Todo-List/src/main/java/com/todolist/model/TaskStatus.java

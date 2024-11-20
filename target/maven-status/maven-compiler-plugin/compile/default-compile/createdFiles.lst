@@ -1,0 +1,9 @@
+com/todolist/repository/TaskRepository.class
+com/todolist/configuration/TestDatabaseConnection.class
+com/todolist/TodoListAPI$RequestHandler.class
+com/todolist/model/TaskStatus.class
+com/todolist/service/TaskService.class
+com/todolist/controller/TaskController.class
+com/todolist/configuration/DatabaseConnection.class
+com/todolist/model/Task.class
+com/todolist/TodoListAPI.class
