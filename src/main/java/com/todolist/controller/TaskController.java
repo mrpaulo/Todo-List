@@ -117,7 +117,7 @@ public class TaskController {
         if (success) {
             sendResponse(outputStream, 200, "OK", "Tarefa deletada com sucesso");
         } else {
-            sendResponse(outputStream, 404, "Not Found", "Tarefa não encontrada");
+            sendResponse(outputStream, 404, "Not Found", "Tarefa não encontrada!");
         }
     }
 
