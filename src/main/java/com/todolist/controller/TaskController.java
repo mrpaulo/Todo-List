@@ -75,7 +75,7 @@ public class TaskController {
                 sendResponse(outputStream, 400, "Bad Request", "Erro no formato JSON: " + e.getMessage());
             }
         } else {
-            sendResponse(outputStream, 400, "Bad Request", "Corpo da requisição vazio");
+            sendResponse(outputStream, 400, "Bad Request", "Corpo da requisição está vazio");
         }
         sendResponse(outputStream, 201, "Created", "Tarefa criada com sucesso");
     }
